@@ -26,6 +26,7 @@ define( 'HEAD_TITLE', 'Arthur HOARO');
 define( 'FOOTER', 'POULET !<br>D\'après les premières versions de <a href="http://sebsauvage.net">SebSauvage</a> et <a href="http://bohwaz.net/">Bohwaz</a>.');
 
 define( 'MACHINS', 'Des machins sont ajouté dans la config du repo');
+define( 'NEW_MACHINS', 'Des machins sont ajouté dans la config du repo');
 
 // Import autoblogs from friend's autoblog farm - Add a link to the JSON export
 $friends_autoblog_farm = array(
