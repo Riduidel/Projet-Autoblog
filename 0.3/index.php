@@ -15,7 +15,7 @@
 
     - upload all files on your server (PHP 5.3+ required)
     - PROFIT !
-
+    - POULET !
 */
 
 define('XSAF_VERSION', 3);

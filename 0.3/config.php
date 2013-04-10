@@ -22,8 +22,8 @@ define( 'ALLOW_NEW_AUTOBLOGS_BY_XSAF', TRUE );
 define( 'API_TWITTER', FALSE );
 
 define( 'LOGO', 'icon-logo.svg' );
-define( 'HEAD_TITLE', '');
-define( 'FOOTER', 'D\'après les premières versions de <a href="http://sebsauvage.net">SebSauvage</a> et <a href="http://bohwaz.net/">Bohwaz</a>.');
+define( 'HEAD_TITLE', 'Arthur HOARO');
+define( 'FOOTER', 'POULET !<br>D\'après les premières versions de <a href="http://sebsauvage.net">SebSauvage</a> et <a href="http://bohwaz.net/">Bohwaz</a>.');
 
 // Import autoblogs from friend's autoblog farm - Add a link to the JSON export
 $friends_autoblog_farm = array(
